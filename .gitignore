@@ -1,0 +1,4 @@
+data/*
+*.pyc
+.iypnb_checkpoints/*
+figures/*
